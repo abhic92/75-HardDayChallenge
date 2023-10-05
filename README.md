@@ -61,21 +61,37 @@ During my journey, I'll be using various resources to aid my learning and coding
 
 *Link* - https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 
-*Topics - ARRAY
-         BINARY SEARCH
-         STRINGS
-         LINKED LIST
-         RECURSION
-         BIT MANUPILATE
-         STACK AND QUEUE
-         SLIDING WINDOW
-         HEAP
-         GREEDY
-         BINARY TREE[Traversals, Medium and Hard Problems]
-         BST
-         GRAPH 
-         DP
-         TRIES*
+*Topics
+
+1. ARRAY
+    
+2. BINARY SEARCH
+   
+3. STRINGS
+   
+4. LINKED LIST
+   
+5. RECURSION
+ 
+6. BIT MANUPILATE
+ 
+7. STACK AND QUEUE
+ 
+8. SLIDING WINDOW
+
+9. HEAP
+ 
+10. GREEDY
+
+11. BINARY TREE[Traversals, Medium and Hard Problems]
+ 
+12. BST
+ 
+13. GRAPH
+ 
+14. DP
+ 
+15. TRIES*
 
 Feel free to reach out to me on:
 
