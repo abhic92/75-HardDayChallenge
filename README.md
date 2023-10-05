@@ -7,10 +7,15 @@ Greetings, fellow coders! Welcome to my coding odyssey—75 Days of Coding. I'm 
 Table of Contents:- 
 
 1.Introduction
+
 2.Why the Challenge?
+
 3.How It Unfurls
+
 4.Tracking Progress
+
 5.A Treasure Trove of Resources
+
 6.Let's Connect
 
 
